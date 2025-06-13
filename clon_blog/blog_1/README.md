@@ -30,8 +30,8 @@ Este proyecto es una aplicación web de blog desarrollada con **Flask**, un micr
 git clone https://github.com/Ruizz1927/blog_1.git
 cd blog_1
 
-apoyado por
+desarrollado por
 HENRY ORTEGON
 
-desarrollado por
+apoyado por
 JERSON RUIZ 1115
